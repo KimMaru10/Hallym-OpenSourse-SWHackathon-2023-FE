@@ -1,63 +1,98 @@
-# 🌐 TEAM TAG 웹사이트 프로젝트
-<img width="513" alt="팀태그" src="https://github.com/user-attachments/assets/bee28ba4-169d-4864-be43-fbfc80155dad">
+# 🌐 TEAM TAG ウェブサイトプロジェクト
 
-## 👥 프로젝트 팀 구성
-- **총 인원:** 4명 (프론트엔드 2명, 백엔드 2명)
-- **본인 역할:** 팀장 및 프론트엔드 개발자
+<img width="513" alt="チームタグ" src="https://github.com/user-attachments/assets/bee28ba4-169d-4864-be43-fbfc80155dad">
+<p><em>▲ TEAM TAGウェブサイトのロゴ。翰林大学学術サークル「シエラン」のTAGチームのコーポレートサイト。</em></p>
 
-## 🎯 프로젝트 개요
-**프로젝트 명:** TEAM TAG
+---
 
-### 📌 프로젝트 목적
-씨애랑 학술 동아리 태그팀의 홍보 및 활동 내용 공유를 위한 웹사이트 제작
+## 👥 チーム構成
 
-## 📅 개발 기간
-**2023.07.21 - 2023.08.02 (약 13일)**
+- **総人数：** 4名（フロントエンド 2名、バックエンド 2名）
+- **担当役割：** チームリーダー兼フロントエンド開発者
 
-## 🛠 기술 스택
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+---
 
-## 🌈 주요 기능
+## 🎯 プロジェクト概要
 
-### 1. 메인 페이지
-- 스크롤 연계 인터랙티브 요소
-- 태그팀 소개 및 활동 홍보
+**プロジェクト名：** TEAM TAG
 
-### 2. 공지사항
-- 공지사항 조회, 검색
-- 관리자 전용 공지사항 작성/수정/삭제
-- 페이지네이션 기능
+### 📌 目的
 
-### 3. 로드맵
-- 프론트엔드/백엔드 학습 로드맵
-- 상세 로드맵 페이지
+シエラン学術サークル TAGチームの広報および活動内容を共有するためのウェブサイト制作
 
-### 4. 작품 소개
-- 소프트웨어 작품 전시
-- 작품 상세 모달 기능
+---
 
-### 5. 일정 관리
-- 캘린더 기반 동아리 일정 확인
+## 📅 開発期間
+
+**2023.07.21 〜 2023.08.02（約13日間）**
+
+---
+
+## 🛠 技術スタック
+
+| カテゴリ | 技術 |
+|:---|:---|
+| **フロントエンド** | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
+| **バックエンド** | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **デザイン** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+
+---
+
+## 🌈 主要機能
+
+### 1. メインページ
+- スクロール連動のインタラクティブな演出
+- TAGチームの紹介と活動広報
+
+### 2. お知らせ
+- お知らせの閲覧・検索機能
+- 管理者専用の作成 / 編集 / 削除機能
+- ページネーション対応
+
+### 3. ロードマップ
+- フロントエンド / バックエンドの学習ロードマップを掲載
+- 各項目の詳細ページへのリンク
+
+### 4. 作品紹介
+- ソフトウェア作品の展示ギャラリー
+- 作品詳細モーダル表示機能
+
+### 5. スケジュール管理
+- カレンダーベースのサークル日程確認機能
 
 ### 6. FAQ
-- 아코디언 메뉴 방식의 질문/답변
+- アコーディオン形式の質問 / 回答ページ
 
-## 🔗 링크
-- **프로젝트 저장소:** [GitHub 링크](https://github.com/KimMaru10/Hallym_Open_Sourse_SWHackathon)
-- **시연 영상:** [YouTube 링크](https://www.youtube.com/watch?v=GD5cwYU-tPY)
+---
 
-## 🏆 성과
-- 팀 최초의 공동 웹사이트 프로젝트 성공적 완료
-- 깃 협업, 서버 연결 등 기술적 도전 극복
+## 🔗 リンク
 
-## 💡 배운 점
-- 팀 협업 능력 향상
-- 깃허브 협업 워크플로우 학습
-- 새로운 기술 스택 습득
-- 문제 해결 능력 개선
+- **プロジェクトリポジトリ：** [GitHubリンク](https://github.com/KimMaru10/Hallym_Open_Sourse_SWHackathon)
+- **デモ動画：** [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GD5cwYU-tPY)
 
-## 🚀 느낀 점
-협업의 가치와 팀워크의 중요성을 깨달은 의미 있는 프로젝트였습니다. 기술적 도전과 서로의 성장을 경험할 수 있었습니다.
+---
+
+## 🏆 成果
+
+- チーム初の共同ウェブサイトプロジェクトを成功裏に完了
+- Git協業・サーバー連携などの技術的課題を克服
+
+---
+
+## 💡 学んだこと
+
+- チーム協業能力の向上
+- GitHubを活用した協業ワークフローの習得
+- Vue.js・Spring など新しい技術スタックの習得
+- 問題解決能力の向上
+
+---
+
+## 🚀 感想
+
+協業の価値とチームワークの重要性を実感できた、非常に意義深いプロジェクトでした。
+技術的な挑戦を通じて、メンバー全員が共に成長できた経験となりました。
+
+---
+
+**Made with ❤️ by Team Tag**
